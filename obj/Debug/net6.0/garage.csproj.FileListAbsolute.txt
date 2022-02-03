@@ -1,0 +1,15 @@
+C:\Users\jtwym\workspace\back-end\book-1\garage\bin\Debug\net6.0\garage.exe
+C:\Users\jtwym\workspace\back-end\book-1\garage\bin\Debug\net6.0\garage.deps.json
+C:\Users\jtwym\workspace\back-end\book-1\garage\bin\Debug\net6.0\garage.runtimeconfig.json
+C:\Users\jtwym\workspace\back-end\book-1\garage\bin\Debug\net6.0\garage.dll
+C:\Users\jtwym\workspace\back-end\book-1\garage\bin\Debug\net6.0\ref\garage.dll
+C:\Users\jtwym\workspace\back-end\book-1\garage\bin\Debug\net6.0\garage.pdb
+C:\Users\jtwym\workspace\back-end\book-1\garage\obj\Debug\net6.0\garage.csproj.AssemblyReference.cache
+C:\Users\jtwym\workspace\back-end\book-1\garage\obj\Debug\net6.0\garage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtwym\workspace\back-end\book-1\garage\obj\Debug\net6.0\garage.AssemblyInfoInputs.cache
+C:\Users\jtwym\workspace\back-end\book-1\garage\obj\Debug\net6.0\garage.AssemblyInfo.cs
+C:\Users\jtwym\workspace\back-end\book-1\garage\obj\Debug\net6.0\garage.csproj.CoreCompileInputs.cache
+C:\Users\jtwym\workspace\back-end\book-1\garage\obj\Debug\net6.0\garage.dll
+C:\Users\jtwym\workspace\back-end\book-1\garage\obj\Debug\net6.0\ref\garage.dll
+C:\Users\jtwym\workspace\back-end\book-1\garage\obj\Debug\net6.0\garage.pdb
+C:\Users\jtwym\workspace\back-end\book-1\garage\obj\Debug\net6.0\garage.genruntimeconfig.cache
